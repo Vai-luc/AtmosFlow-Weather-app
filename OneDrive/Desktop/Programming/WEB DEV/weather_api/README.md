@@ -8,7 +8,7 @@
 
 ## 🚀 Live Demo
 
-Experience AtmosFlow: [View Live Demo](http://localhost:8000) (when running locally)
+Experience AtmosFlow: [View Live Demo]((https://atmo-flow-s5op.vercel.app/)) (when running locally)
 
 **GitHub Repository:** [github.com/Vai-luc/AtmosFlow-Weather-app](https://github.com/Vai-luc/AtmosFlow-Weather-app)
 
